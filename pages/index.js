@@ -9,7 +9,7 @@ export default function Home() {
     >
       <div className="w-full flex-col items-center justify-center font-mono ">
         <p className="flex w-full justify-center">
-          It was a cool course, thanks to each of you!
+          It was a cool course, thanks to each of you!!!!!
         </p>
       </div>
 
